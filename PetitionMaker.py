@@ -9,7 +9,7 @@ from time import sleep
 
 #Este código foi feito, no decorrer do ano de 2023, então muitas funções que eu criei estão desorganizadas e, possivelmente, maiores do que
 #o necessário, devido a minha falta de experiência no momento em questão. As mesmas não foram reorganizadas, ou refeitas por mim, por conta
-#de que eu não uso mais esse código, só usei ele no decorrer do meu estágio informal de 2023.
+#de eu não usar mais esse código, só usei ele no decorrer do meu estágio informal de 2023.
 
 
 def SelecionarOpcao():
